@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.log
+.venv/
+venv/
+build/
+dist/
+*.xlsx
+~$*.xlsx
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+dist/
+*.exe
